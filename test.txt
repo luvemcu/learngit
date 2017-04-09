@@ -4,3 +4,4 @@ test.txt
 
 change point 1
 change point 2
+change point 3
